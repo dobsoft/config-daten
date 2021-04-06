@@ -1,0 +1,6 @@
+server:
+    port: 9092
+
+service:
+    greeting: Hello from Profile (GIt:\IT14-8\config-repo\profile-service\profile-prod-yml)
+
